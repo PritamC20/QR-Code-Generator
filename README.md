@@ -1,0 +1,4 @@
+- **Backend:** Flask, SQLAlchemy, Flask-Migrate, qrcode, Pillow, Web3.py, Matplotlib, Swagger UI
+- **Frontend:** React.js, Axios
+- **Database:** SQLite (PostgreSQL/MySQL for production)
+- **Tools & Deployment:** Docker, Git, GitHub, Heroku/AWS
